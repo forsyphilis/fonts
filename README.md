@@ -2,11 +2,11 @@
 
 ## DOS Font
 
-I created a series of DOS retro-styled fonts. We only support TTF format. (04/07/2016)
+I created a series of DOS retro-styled fonts. We only support TTF format, but we will add both OTF and BDF.
 
 They licensed by OFL (SIL Open Font License).
 
-도스 스타일이 나는 글꼴을 만들었습니다. TTF만 지원합니다. (2016/04/07)
+도스 스타일이 나는 글꼴을 만들었습니다. TTF만 지원하며, OTF 및 BDF는 추가 예정입니다.
 
 해당 글꼴들은 OFL (SIL Open Font License) 라이선스에 기반을 둡니다.
 
@@ -15,3 +15,14 @@ They licensed by OFL (SIL Open Font License).
 * DOSSaemmul (도스샘물)
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
+
+### Version History
+* 0.1 (2016/04/07)
+  * Add 3 items (DOSMyungjo, DOSGothic and DOSSaemmul)
+  * Only support Basic Latin and Hangul
+
+### Support Range
+* Basic Latin (기본 라틴)
+* Hangul Jamo (한글 자모)
+* Hangul Compatibility Jamo (한글 호환 자모)
+* Hangul Syllables (한글 낱자)
