@@ -16,6 +16,9 @@ They licensed by OFL (SIL Open Font License).
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
 
+### Sample
+![Font Sample](/fontsample.PNG)
+
 ### Version History
 * 0.1 (2016/04/07)
   * Add 3 items (DOSMyungjo, DOSGothic and DOSSaemmul)
