@@ -20,6 +20,22 @@ CJK Ideographs are imported from Hanme-hangul (KS X 1001 Hanja; one of hangul in
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
 
+### Description
+* TTF
+It is TrueType format.
+
+트루타입 방식을 사용하였습니다.
+
+* OTF
+I recommend you to use it for design. It also can resized "as is".
+
+디자인용으로 사용하며, 보이는 대로 출력이 됩니다. (추천)
+
+* BDF
+LINUX reserves its console or terminal.
+
+리눅스 콘솔이나 단말에 사용할 수 있습니다.
+
 ### Sample
 ![Font Sample](/fontsample.PNG)
 
@@ -27,6 +43,7 @@ CJK Ideographs are imported from Hanme-hangul (KS X 1001 Hanja; one of hangul in
 
 * 0.15 (2016/04/08)
   * Update CJK Ranges
+  * Compressed with ZIP files (due to storage)
 * 0.1 (2016/04/07)
   * Add OTF, BDF (16pt) format
   * Add 3 items (DOSMyungjo, DOSGothic and DOSSaemmul)
