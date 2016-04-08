@@ -22,7 +22,7 @@ They licensed by OFL (SIL Open Font License).
 ### Version History
 
 * 0.1 (2016/04/07)
-  * ##Add OTF, BDF (16pt) format##
+  * Add OTF, BDF (16pt) format
   * Add 3 items (DOSMyungjo, DOSGothic and DOSSaemmul)
   * Only support Basic Latin and Hangul
 
