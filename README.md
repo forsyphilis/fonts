@@ -2,11 +2,11 @@
 
 ## DOS Font
 
-I created a series of DOS retro-styled fonts. We only support TTF format, but we will add both OTF and BDF.
+I created a series of DOS retro-styled fonts. We are support TTF, OTF and BDF format.
 
 They licensed by OFL (SIL Open Font License).
 
-도스 스타일이 나는 글꼴을 만들었습니다. TTF만 지원하며, OTF 및 BDF는 추가 예정입니다.
+도스 스타일이 나는 글꼴을 만들었습니다. TTF, OTF 및 BDF를 지원합니다.
 
 해당 글꼴들은 OFL (SIL Open Font License) 라이선스에 기반을 둡니다.
 
@@ -20,7 +20,9 @@ They licensed by OFL (SIL Open Font License).
 ![Font Sample](/fontsample.PNG)
 
 ### Version History
+
 * 0.1 (2016/04/07)
+  * ##Add OTF, BDF (16pt) format##
   * Add 3 items (DOSMyungjo, DOSGothic and DOSSaemmul)
   * Only support Basic Latin and Hangul
 
