@@ -10,14 +10,14 @@ CJK Ideographs are imported from Hanme-hangul (KS X 1001 Hanja; one of hangul in
 
 도스 스타일 글꼴을 만들었습니다. TTF, OTF 및 BDF를 지원합니다.
 
-해당 글꼴들은 OFL (SIL Open Font License) 라이선스에 기반을 둡니다.
+해당 글꼴들은 MIT 라이선스에 기반을 둡니다.
 
 한자 글꼴은 도스용 한메한글 한자 글꼴 (KS X 1001 부분) 및 [jiskan16](https://ja.wikipedia.org/wiki/Jiskan) (JIS X 0213:2004)에서 추출하였습니다.
 
 * DOSMyungjo (도스명조)
 * DOSGothic (도스고딕)
 * DOSSaemmul (도스샘물)
-* Sam3KRFont (삼국지3글꼴) - 한자 없음 (Not contains Hanja)
+* Sam3KRFont (삼국지3글꼴) - 한자 없음 (Not contains Hanja), MS워드 사용시 자간 뭉개질 수 있음
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
 
