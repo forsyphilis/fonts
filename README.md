@@ -17,9 +17,9 @@ CJK Ideographs are imported from Hanme-hangul (KS X 1001 Hanja; one of hangul in
 * DOSMyungjo (도스명조)
 * DOSGothic (도스고딕)
 * DOSSaemmul (도스샘물)
+* Sam3KRFont (삼국지3글꼴) - 한자 없음 (Not contains Hanja)
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
-* Sam3Myungjo (삼국지명조, 추가 예정)
 
 ### Description
 * TTF
@@ -42,7 +42,8 @@ LINUX reserves its console or terminal.
 
 ### Version History
 
-* 0.151 (2016/08/19)
+* 0.2 (2016/08/19)
+  * Add Sam3KRFont
   * Change current license into MIT License
   * Decompress zip files
 * 0.15 (2016/04/08)
