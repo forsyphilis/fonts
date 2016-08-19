@@ -4,7 +4,7 @@
 
 I created a series of DOS retro-styled fonts. We are support TTF, OTF and BDF format.
 
-They licensed by OFL (SIL Open Font License).
+They licensed by MIT License.
 
 CJK Ideographs are imported from Hanme-hangul (KS X 1001 Hanja; one of hangul input method in DOS) and jiskan16(https://ja.wikipedia.org/wiki/Jiskan) (JIS X 0213:2004 Kanji); which designed by Imamura and Hanataka from Japan Electronics and Information Technology Industries Association.
 
@@ -19,6 +19,7 @@ CJK Ideographs are imported from Hanme-hangul (KS X 1001 Hanja; one of hangul in
 * DOSSaemmul (도스샘물)
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
+* Sam3Myungjo (삼국지명조, 추가 예정)
 
 ### Description
 * TTF
@@ -41,6 +42,9 @@ LINUX reserves its console or terminal.
 
 ### Version History
 
+* 0.151 (2016/08/19)
+  * Change current license into MIT License
+  * Decompress zip files
 * 0.15 (2016/04/08)
   * Update CJK Ranges
   * Compressed with ZIP files (due to storage)
@@ -55,8 +59,8 @@ LINUX reserves its console or terminal.
 * Hangul Compatibility Jamo (한글 호환 자모)
 * Hangul Syllables (한글 낱자)
 * CJK Unified Ideographs (KS X 1001 + JIS X 0213:2004)
-* CJK Unified Extension A
-* CJK Unified Extension B
+* CJK Unified Extension A (Compatible with JIS X 0213:2004)
+* CJK Unified Extension B (Compatible with JIS X 0213:2004)
 
 ### References
 * [jiskan article in Wikipedia (in Japanese)](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/ftp/fonts/)
