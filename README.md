@@ -22,7 +22,7 @@ Especially, Miraero Normal font only covers Unicode 1.1 glyphs without CJK Ideog
 * DOSGothic (도스고딕)
 * DOSSaemmul (도스샘물)
 * Sam3KRFont (삼국지3글꼴) - 한자 없음 (Not contains Hanja), MS워드 사용시 자간 뭉개질 수 있음
-* MiraeroNormal (미래로 글꼴) - 한자 없음(Not contains Hanja), Unicode 1.1 glyphs and Euro Sign Support
+* MiraeroNormal (미래로 글꼴) - KS X 1001 & KS X 1002 한자 (KS X 1001 & KS X 1002 Hanja), Unicode 1.1 glyphs and Euro Sign Support
 * DOSPilgi (도스필기, 추가 예정)
 * DOSIyagi (도스이야기, 추가 예정)
 
@@ -47,6 +47,8 @@ LINUX reserves its console or terminal.
 
 ### Version History
 
+* 0.4 (2016/10/30)
+  * Update MiraeroNormal (Update KS Hanja)
 * 0.3 (2016/10/01)
   * Add MiraeroNormal
 * 0.2 (2016/08/19)
@@ -66,7 +68,7 @@ LINUX reserves its console or terminal.
 * Hangul Jamo (한글 자모)
 * Hangul Compatibility Jamo (한글 호환 자모)
 * Hangul Syllables (한글 낱자)
-* CJK Unified Ideographs (KS X 1001 + JIS X 0213:2004)
+* CJK Unified Ideographs (KS X 1001 + KS X 1002 (optional) + JIS X 0213:2004)
 * CJK Unified Extension A (Compatible with JIS X 0213:2004)
 * CJK Unified Extension B (Compatible with JIS X 0213:2004)
 
