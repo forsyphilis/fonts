@@ -75,4 +75,4 @@ LINUX reserves its console or terminal.
 ### References
 * [jiskan article in Wikipedia (in Japanese)](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/ftp/fonts/)
 * [akafuku's GitHub (jiskan16 files)](https://github.com/akahuku/ufo/tree/master/src/jiskan)
-* [MiraeroNormal references](http://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=47&pageIndex=1)
+* [MiraeroNormal references (in Korean)](http://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=47&pageIndex=1)
